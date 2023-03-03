@@ -16,7 +16,7 @@
 title: Yuantsy Project
 description: Project Wiki
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.yuantsy.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://wiki.yuantsy.com/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: chenyiyun573/2023.3.3_yuantsy_wiki # for github-metadata
 
 permalink: pretty
