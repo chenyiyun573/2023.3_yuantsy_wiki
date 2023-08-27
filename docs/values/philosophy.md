@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosophy
-parent: Values
+parent: Values (价值观)
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yuantsy Wiki
+title: Yuantsy Wiki 源子百科
 nav_order: 1
 description: "Wiki that serves as the introduction document to projects in Yuantsy."
 permalink: /

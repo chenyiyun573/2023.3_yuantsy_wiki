@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Engineering
-parent: Values
+parent: Values (价值观)
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-parent: Guide
+parent: Guide (指南)
 nav_order: 3
 ---
 

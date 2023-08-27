@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guide
-nav_order: 5
+title: Guide (指南)
+nav_order: 8
 permalink: /guide
 has_children: True
 ---

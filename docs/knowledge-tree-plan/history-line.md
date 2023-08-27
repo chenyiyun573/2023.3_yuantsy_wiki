@@ -1,10 +1,8 @@
 ---
 layout: default
 title: History Line
-nav_order: 3
-description: "Introduction HomePage. History Line Project is about whole picture of the human productivity development. It will foucs on Engineering Part."
-has_children: True
-permalink: /history-line
+parent: KnowledgeTree (知识树)
+nav_order: 2
 ---
 
 # History Line 历史线

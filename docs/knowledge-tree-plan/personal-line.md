@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Personal Line
-nav_order: 4
-description: "Introduction HomePage. Personal Line Project is about whole picture of how people learn things and grow from baby to adult. It will foucs on Philosophy Part."
-has_children: true
-permalink: /personal-line
+parent: KnowledgeTree (知识树)
+nav_order: 3
 ---
 
 # Personal Line 个体线
@@ -42,5 +40,3 @@ Again，A Guide Book: <br/>   1. Deconstruct of All Linguistic Elements <br/>2. 
 
 [Engineering]: https://www.yuantsy.com/engineering/
 [Philosophy]: https://www.yuantsy.com/philosophy/
-
-
