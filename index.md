@@ -29,7 +29,22 @@ Its Projects of Phase1 aims at,
 2. A clear description and precise display of the level of human technology.
 3. Build a efficient knowledge system to simplify our information processing as human beings.
 
+---
+## 目标
 
+源子现在是一个非营利组织。
+
+源子将尝试为三个具有不同价值的领域做出贡献。
+
+1. 哲学 — 追求真理。
+2. 工程 - 提高生产力。
+3. 美学 — 以人为本。
+
+
+其第一阶段的项目旨在，
+1. 为通用人工智能做出贡献，以提高人类生产力。
+2. 对人类科技水平的清晰描述和精准展示。
+3. 构建高效的知识系统来简化我们人类的信息处理过程。
 
 
 [Engineering]: https://www.yuantsy.com/engineering/
