@@ -22,7 +22,6 @@ Personal Line of Knowledge Tree Plan is about whole picture of how people learn 
 3. The Empirical Theory 经验理论
 4. Language and Art
 
-构造理论，是我个人对一些逻辑自洽，成体系的可以纯逻辑去理解的学科的总分类，这里主要包括数学，经典物理，集总电路，计算机理论等。这里所做的具体目录分类是我个人学习经历所导致的，并不一定代表我个人认为最优的划分方式。- 陈熠云
 
 
 ## Purpose in Thought Experiment 思想实验

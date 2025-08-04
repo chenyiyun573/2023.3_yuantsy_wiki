@@ -29,8 +29,8 @@ Yuantsy's related product income is mainly used to support Yuantsy's projects ba
 
 | Service Name | Description | Status & Price |
 |--------------|-------------|----------------|
-| ChatGPT3.5 大语言模型GPT3.5 | | online已上线 0.02元每1000字 |
-| Dall-E 图片生成服务 | | online已上线 0.2元每张 |
+| 大语言模型 | | online已上线 |
+| Dall-E 图片生成服务 | | online已上线 |
 
 ---
 
@@ -38,9 +38,9 @@ Yuantsy's related product income is mainly used to support Yuantsy's projects ba
 
 | Service Name | Description | Status |
 |--------------|-------------|--------|
-| YuantsyDesk 源子桌面助手 | | developing开发中 |
-| YuantsyDrive 源子自动驾驶 | | developing开发中 |
-| YuantsyDynamics 动力机器人 | | uninitialized未开发 |
+| YuantsyDesk  | |  |
+| YuantsyDrive | |  |
+| YuantsyDynamics | |  |
 
 ---
 
